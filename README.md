@@ -2,7 +2,7 @@
 
 ## Description
 Hello folks!
-Welcome on this repo, this modified balanced powerplan should help you achieve better performance, idle usage (lower), idle clocks (also lower), handling single-threaded processes, and maybe lowering temps and power consumption.
+Welcome on this repo, this modified balanced powerplan should help you achieve better performance, idle usage (lower), idle clocks (also lower), better handling of single-threaded processes, and maybe lowering temps and power consumption.
 Tested on FM2+ AMD Athlon X4 870K clocked at 4.3Ghz with 8GB 2133Mhz RAM in dual channel.
 
 ## Disclaimer
