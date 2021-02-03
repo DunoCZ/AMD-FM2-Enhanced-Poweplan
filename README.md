@@ -1,4 +1,4 @@
-# AMD-FM2-Enhanced-Poweplan
+# AMD FM2+ Enhanced Poweplan
 
 ## Description
 Hello folks!
